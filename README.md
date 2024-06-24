@@ -1,4 +1,5 @@
-#Music Recommendation App
+Music Recommendation App
+
 #Overview
 The Music Recommendation App is a Python application built with PyQt5 that provides personalized music recommendations based on user ratings. It allows users to select a user profile and recommends songs that they have not yet rated or randomly selects from their rated songs.
 
